@@ -4,3 +4,4 @@ for running this project
 python 3.6
 TensorFlow-gpu=1.8
 keras=2.0.8
+https://scholar.google.com/citations?user=5pspi6oAAAAJ&hl=en
